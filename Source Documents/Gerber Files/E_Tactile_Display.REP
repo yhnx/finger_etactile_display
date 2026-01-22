@@ -1,0 +1,297 @@
+*************************************************************
+FileName = E_Tactile_Display.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : E_Tactile_Display.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : E_Tactile_Display.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : E_Tactile_Display.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : E_Tactile_Display.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : E_Tactile_Display.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : E_Tactile_Display.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : E_Tactile_Display.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : E_Tactile_Display.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : E_Tactile_Display.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : E_Tactile_Display.GM2
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top PI Coverlay (Full Stackup)
+      File : E_Tactile_Display.GCT1
+
+    Adding Layer      : Top PI Coverlay (Full Stackup)
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Stiffener
+      File : E_Tactile_Display.GM4
+
+    Adding Layer      : Bottom Stiffener
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom PI Coverlay (No Stiffener)
+      File : E_Tactile_Display.GCB2
+
+    Adding Layer      : Bottom PI Coverlay (No Stiffener)
+
+
+Used DCodes :
+    D11
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : E_Tactile_Display.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Stiffener
+      File : E_Tactile_Display.GM3
+
+    Adding Layer      : Top Stiffener
+
+
+Used DCodes :
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : E_Tactile_Display.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top PI Coverlay (No Stiffener)
+      File : E_Tactile_Display.GCT2
+
+    Adding Layer      : Top PI Coverlay (No Stiffener)
+
+
+Used DCodes :
+    D11
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top PI Coverlay
+      File : E_Tactile_Display.GTS
+
+    Adding Layer      : Top PI Coverlay
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom PI Coverlay (Full Stackup)
+      File : E_Tactile_Display.GCB1
+
+    Adding Layer      : Bottom PI Coverlay (Full Stackup)
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : E_Tactile_Display.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom PI Coverlay
+      File : E_Tactile_Display.GBS
+
+    Adding Layer      : Bottom PI Coverlay
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : E_Tactile_Display.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : E_Tactile_Display.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : E_Tactile_Display.GM
+
+
+Used DCodes :
+    D20
+*************************************************************
+

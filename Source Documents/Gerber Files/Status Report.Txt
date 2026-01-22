@@ -1,0 +1,35 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[E_Tactile_Display.GTO]
+   Generated File[E_Tactile_Display.GTP]
+   Generated File[E_Tactile_Display.GTS]
+   Generated File[E_Tactile_Display.GTL]
+   Generated File[E_Tactile_Display.GBL]
+   Generated File[E_Tactile_Display.GBS]
+   Generated File[E_Tactile_Display.GBP]
+   Generated File[E_Tactile_Display.GBO]
+   Generated File[E_Tactile_Display.GM1]
+   Generated File[E_Tactile_Display.GM2]
+   Generated File[E_Tactile_Display.GM3]
+   Generated File[E_Tactile_Display.GM4]
+   Generated File[E_Tactile_Display.GM13]
+   Generated File[E_Tactile_Display.GM15]
+   Generated File[E_Tactile_Display.GCT1]
+   Generated File[E_Tactile_Display.GCB1]
+   Generated File[E_Tactile_Display.GCT2]
+   Generated File[E_Tactile_Display.GCB2]
+   Generated File[E_Tactile_Display.GKO]
+   Generated File[E_Tactile_Display.GPT]
+   Generated File[E_Tactile_Display.GPB]
+   Generated File[E_Tactile_Display.GD1]
+   Generated File[E_Tactile_Display.GG1]
+   Generated File[E_Tactile_Display.GM]
+   Generated File[E_Tactile_Display.EXTREP]
+   Generated File[E_Tactile_Display.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 11:11:53 AM On 1/22/2026
